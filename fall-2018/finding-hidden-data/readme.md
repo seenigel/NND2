@@ -73,7 +73,8 @@ ASK FOR IT!
 Remember, especially when dealing with a government agency, there are laws that require them to keep records of their official government activity. So if they have the records, you can ask to see them.
 
 Example:
-- DNAinfo Crime Blotter
+
+- <a href="https://www.dnainfo.com/new-york/20170818/crown-heights/71st-precinct-crime-blotter/" target="blank">DNAinfo Crime Blotter</a>
 The blotter is a precinct's arrest records. They don't show up in the compstat reports, but we were able to get them by building a good relationship with the police precinct and asking to see them each week. 
 
 # What if they say no?
