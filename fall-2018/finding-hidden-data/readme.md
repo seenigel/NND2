@@ -1,6 +1,6 @@
 # NND2 Data, Fall 2018
 ## Finding, extracting, and working with hidden, messy, or non-existent data.
-Permalink: 
+Permalink: http://bit.ly/nnd-hidden-data
 
 ## The hidden world of data
 Last semester we talked about how data can enhance your story and and where you can go to find common data sources. 
