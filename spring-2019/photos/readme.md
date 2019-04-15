@@ -1,5 +1,6 @@
-# Photography and captions for Journalists
+# Photography and Captions for Journalists
 Make your stories come to life.
+Permalink to these notes: [http://bit.ly/nndphotos](http://bit.ly/nndphotos)
 
 **A picture is worth a thousand words.**
 
@@ -70,3 +71,6 @@ Here's a recent example: Tiger Woods won the Masters yesterday. [Here's how the 
 Again, who, what, when, and why.
 
 Try to make sure your captions do this. If you're showing us people, tell us who they are or what they're doing, and then explain why we're seeing this. If you're showing a building, explain what it is, where it's located, and explain why it's important.
+
+Attribution. Every photo should have attributon to it. (Give credit to the person who took it.) The most common way to do that is to include the name of the person who took the photo (it should be you!) and the publication you took it for (in our case it's This New York). So end your captions with:
+`*Photo: Photographer's Name/This New York*`
