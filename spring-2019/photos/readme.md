@@ -50,7 +50,10 @@ You don't need an expensive DSLR to take great photos. The phone you have in you
 3. Don't use the zoom: Zoom on mobile phones just makes pixels look bigger and photos look grainier. If there is a detail you want to shoot, GET CLOSER.
 
 ### A note on posing
-- Don't tell your subject to pose. In news photography we want to capture subjects as they are naturally. Readers expect that what they're seeing is what actually happened. (This also means don't use the portrait mode. That's an artificial effect.)
+Don't tell your subject to pose. In news photography we want to capture subjects as they are naturally. Readers expect that what they're seeing is what actually happened. (This also means don't use the portrait mode. That's an artificial effect.)
+
+### A note on editing
+Just like with poses, we want our photos to look the way they did in real life. So when editing your photos, don't use filters, don't remove blemishes, don't do any edits that change the nature of the photo. You can color correct to make the photo look accurate, but you can't make a cloudy day look sunny. That's a big no-no.
 
 ## Captions
 If the photograph helps tell the story, the captions help make sure everyone is caught up. They exist to both explain to the reader what they're looking at and why they're looking at it.
