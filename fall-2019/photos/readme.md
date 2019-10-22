@@ -1,6 +1,6 @@
 # Photography and Captions for Journalists
 Make your stories come to life.
-Permalink to these notes: [http://bit.ly/nndphotos](http://bit.ly/nndphotos)
+Permalink to these notes: [http://bit.ly/nndphotos2019](http://bit.ly/nndphotos2019)
 
 **A picture is worth a thousand words.**
 
