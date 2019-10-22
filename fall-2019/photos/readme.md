@@ -11,9 +11,7 @@ We humans are visual creatures. Seeing something helps us understand it better. 
 ### 1. Proximity
 The absolute number one thing that can make for a good news photo is proximity. More than lighting, more than editing, more than framing. Get close.
 
-Example: [The Life and Times of Strider Wolf](https://apps.bostonglobe.com/graphics/
-/readme-1.md
-2015/11/strider/)
+Example: [The Life and Times of Strider Wolf](https://apps.bostonglobe.com/graphics/2015/11/strider/)
 
 This is a story about the life of a boy in Maine who has lived through a lot. His mother's boyfriend nearly beat him to death with he was two. He was placed with his grandparents by the state. His grandparents were evicted from their mobile home, leaving them with just a camper and each other. And through it all, Strider is just looking for love.
 
