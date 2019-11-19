@@ -1,4 +1,5 @@
 # Design for News
+Permalink: [http://bit.ly/nnd-news-design](http://bit.ly/nnd-news-design)
 One of the most fun aspects of working in a newsroom is that you get to decide how to tell your stories. Sometimes the straight linear text model isn't best way to convey a point. And when that happens, you get to be creative.
 
 ## Examples
